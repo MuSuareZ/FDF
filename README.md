@@ -20,15 +20,15 @@ In order to run the executable, type:
 > ./fdf "file name you would like it to display"
 
 **Buttons**
-Arrow Keys          "Move the drawing around in the window"
-W Key               "Increase drawing height"
-S Key               "Decrease drawing height"
-I Key               "Change to Isometric Projection"
-P Key               "Change to Parallel Projection"
-Left Mouse Button   "Change color"
-NumPad + Key        "Zoom in"
-NumPad - Key        "Zoom out"
-ESC Key             "Close Program"
+-Arrow Keys          "Move the drawing around in the window"
+-W Key               "Increase drawing height"
+-S Key               "Decrease drawing height"
+-I Key               "Change to Isometric Projection"
+-P Key               "Change to Parallel Projection"
+-Left Mouse Button   "Change color"
+-NumPad + Key        "Zoom in"
+-NumPad - Key        "Zoom out"
+-ESC Key             "Close Program"
 
 ![Image of Subject](https://github.com/MuSuareZ/FDF/blob/master/42logo.png)
 ![Image of Subject](https://github.com/MuSuareZ/FDF/blob/master/mars.png)
