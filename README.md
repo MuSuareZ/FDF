@@ -1,7 +1,7 @@
 # FDF
 
 This was the start of my journey in graphic programming, FdF offers to visualize “iron wire” meshing in 3D.
-The program is supposed to read from a file (X, Y, Z) values, where X is the rows, Y is the columns and Z is the number value.
+The program is supposed to read from a file (X, Y, Z) values, where X is the rows, Y is the columns and Z is height value.
 
 # How to use it?
 
