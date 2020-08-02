@@ -38,5 +38,5 @@ In order to run the executable, type:
 
 # Images
 
-![Image of Subject](https://github.com/MuSuareZ/FDF/blob/master/42logo.png)
-![Image of Subject](https://github.com/MuSuareZ/FDF/blob/master/mars.png)
+![Image of Subject](https://github.com/MuSuareZ/FDF/blob/master/img/42logo.png)
+![Image of Subject](https://github.com/MuSuareZ/FDF/blob/master/img/mars.png)
