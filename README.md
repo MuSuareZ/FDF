@@ -10,6 +10,8 @@ use the keys to interact with the shapes!***
 
 ***If you would like to know how to install MinilibX, check this https://github.com/gcamerli/minilibx for clear instructions and system requirements***
 
+***PS: You should always ignore the quotation marks, they are just comments of what you should input***
+
 > git clone "my repo URL" "your folder path"
 
 You can compile it through a Makefile in the root of my Repo
@@ -21,7 +23,9 @@ creating an executable called **fdf**
 In order to run the executable, type:
 > ./fdf "file name you would like it to display"
 
-**Buttons**
+***Remember that each coordinate should be separated by one space, check the file test.txt as an example***
+
+# Buttons
 - Arrow Keys -------->"Move the drawing around in the window"
 - W Key --------------->"Increase drawing height"
 - S Key ---------------->"Decrease drawing height"
@@ -32,9 +36,7 @@ In order to run the executable, type:
 - NumPad - Key ------>"Zoom out"
 - ESC Key ----------->"Close Program"
 
+# Images
+
 ![Image of Subject](https://github.com/MuSuareZ/FDF/blob/master/42logo.png)
 ![Image of Subject](https://github.com/MuSuareZ/FDF/blob/master/mars.png)
-
-***Remember that each coordinate should be separated by one space, check the file test.txt as an example***
-
-***PS: You should always ignore the quotation marks, they are just comments of what you should input***
